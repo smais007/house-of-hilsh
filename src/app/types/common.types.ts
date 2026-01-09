@@ -488,6 +488,7 @@ export interface DishItemProps {
   title: string;
   price: string;
   description: string;
+  imageSrc?: string;
 }
 
 export interface LightBoxProps {

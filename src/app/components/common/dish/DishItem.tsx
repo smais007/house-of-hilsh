@@ -1,7 +1,12 @@
 import React, { useId } from "react";
 import { DishItemProps } from "@/app/types/common.types";
 
-const DishItem: React.FC<DishItemProps> = ({ title, price, description }) => {
+const DishItem: React.FC<DishItemProps> = ({
+  title,
+  price,
+  description,
+  imageSrc,
+}) => {
   const id = useId();
 
   // Early return if essential data is missing

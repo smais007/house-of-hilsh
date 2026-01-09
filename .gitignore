@@ -35,3 +35,50 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+admin
+# /admin/.next
+# /admin/out
+# /admin/build
+# /admin/.vercel
+# /admin/.vercel_build_output
+# /admin/.env*.local
+# /admin/node_modules
+# /admin/tsconfig.tsbuildinfo
+# /admin/npm-debug.log*
+# /admin/yarn-debug.log*
+# /admin/yarn-error.log*
+# /admin/coverage
+# /admin.DS_Store
+# /admin/*.pem
+# /admin/*.sh
+# /admin/.pnp
+# /admin/.pnp.js
+# /admin/.yarn/install-state.gz
+# /admin/next-env.d.ts
+# /admin/.gitignore
+# /admin/.vercelignore
+# /admin/.github
+# /admin/.vscode
+# /admin/.idea
+# /admin/.env
+# /admin/.env.local
+# /admin/.env.development.local
+# /admin/.env.test.local
+# /admin/.env.production.local
+# /admin/tsconfig.json
+# /admin/jest.config.js
+# /admin/jest.setup.js
+# /admin/postcss.config.js
+# /admin/tailwind.config.js
+# /admin/craco.config.js
+# /admin/vue.config.js
+# /admin/babel.config.js
+# /admin/webpack.config.js
+# /admin/vue.config.js
+# /admin/rollup.config.js
+# /admin/metro.config.js
+# /admin/tsconfig.paths.json
+# /admin/public
+# /admin/src

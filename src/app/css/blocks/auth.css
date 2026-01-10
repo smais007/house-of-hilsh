@@ -13,12 +13,12 @@
 }
 
 .auth-section__container {
-  @apply max-w-md mx-auto px-4;
+  @apply max-w-xl mx-auto px-4;
 }
 
 /* Auth Form */
 .auth-form {
-  @apply bg-surface p-8 rounded-lg;
+  @apply border border-primary/50 p-8 rounded-lg;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
 }
 

@@ -5,7 +5,6 @@ import { HeroInnerLoginData } from "@/app/hooks/data-auth-cart";
 const LoginPage = () => {
   return (
     <div className="auth-page">
-      {/* Hero Inner - Block */}
       <HeroInnerBlock
         title={HeroInnerLoginData.title}
         image={HeroInnerLoginData.image}
